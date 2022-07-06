@@ -1,0 +1,12 @@
+{
+    "name":"default",
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "123456",
+    "database": "api-node-type-orm",
+    "entities": ["src/entities/*.ts"],
+    "logging": false,
+    "synchronize": true
+  }

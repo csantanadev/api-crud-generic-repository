@@ -1,0 +1,1 @@
+# api-financas-node-typeorm-solid
